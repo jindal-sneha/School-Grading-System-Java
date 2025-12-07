@@ -12,4 +12,9 @@ This project is a simple Java-based school grading system that allows you to inp
 1. Ensure you have Java installed on your computer.  
 2. Compile the Java file using the command:  
    ```bash
+
+   ## Output Screenshot
+
+![Program Output](output.png)
+
    javac SchoolSystem.java
